@@ -1,52 +1,59 @@
-\# BiyoRaad – Smart Water Finder
+💧 BiyoRaad – Smart Water Finder
 
+Finding Water. Connecting Communities. Saving Time.
 
+BiyoRaad is a smart web-based platform designed to help communities in Somaliland locate water sources, check water availability, and report water shortages.
 
-A web platform helping communities in Somaliland find water sources and report water shortages.
+🎯 Problem Statement
 
+Many communities in Somaliland face difficulties finding reliable information about available water sources, especially during droughts. BiyoRaad aims to make water information more accessible and up to date.
 
+💡 Our Solution
 
-\## Project Status
+BiyoRaad provides a centralized platform where users can:
 
-Under Development – Telesom Academy Developers Competition.
+* Find nearby water sources.
+* Check water availability and status.
+* View water locations on an interactive map.
+* Report water shortages.
+* Receive updated information about water sources.
 
+✨ Key Features
 
+* Water Source Finder
+* Interactive Map
+* Water Availability Status
+* Water Shortage Reporting
+* Admin Dashboard
+* User Authentication
+* English and Somali Language Support
 
-\## Main Features
+🛠️ Technology Stack
 
-\- Find nearby water sources.
+* Python
+* Django
+* PostgreSQL
+* HTML, CSS and JavaScript
+* Bootstrap 5
+* Leaflet.js
+* OpenStreetMap
+* Chart.js
 
-\- View water availability.
+🌍 Target Users
 
-\- Report water shortages.
+* Local communities
+* Rural and nomadic communities
+* Water management organizations
+* Local authorities
 
-\- Interactive water source map.
+🚧 Project Status
 
-\- Admin dashboard.
+Currently under development for the Telesom Academy Developers Competition 2026.
 
-
-
-\## Technology Stack
-
-\- Python
-
-\- Django
-
-\- PostgreSQL
-
-\- HTML
-
-\- CSS
-
-\- JavaScript
-
-\- Bootstrap 5
-
-\- Leaflet.js
-
-
-
-\## Developer
+👩‍💻 Development Team
 
 BiyoRaad Development Team
 
+⸻
+
+BiyoRaad – Smart Water Finder: Making water information accessible to everyone.
