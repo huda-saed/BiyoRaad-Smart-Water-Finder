@@ -32,7 +32,7 @@ BiyoRaad provides a centralized platform where users can:
 
 * Python
 * Django
-* PostgreSQL
+* Oracle Database
 * HTML, CSS and JavaScript
 * Bootstrap 5
 * Leaflet.js
